@@ -5,17 +5,17 @@
     "main.js.map": "/facebook-container-app/static/js/main.952f85d2.chunk.js.map",
     "runtime-main.js": "/facebook-container-app/static/js/runtime-main.519fe69e.js",
     "runtime-main.js.map": "/facebook-container-app/static/js/runtime-main.519fe69e.js.map",
-    "static/js/2.29832f74.chunk.js": "/facebook-container-app/static/js/2.29832f74.chunk.js",
-    "static/js/2.29832f74.chunk.js.map": "/facebook-container-app/static/js/2.29832f74.chunk.js.map",
+    "static/js/2.d537c3ba.chunk.js": "/facebook-container-app/static/js/2.d537c3ba.chunk.js",
+    "static/js/2.d537c3ba.chunk.js.map": "/facebook-container-app/static/js/2.d537c3ba.chunk.js.map",
     "static/js/3.a7764df1.chunk.js": "/facebook-container-app/static/js/3.a7764df1.chunk.js",
     "static/js/3.a7764df1.chunk.js.map": "/facebook-container-app/static/js/3.a7764df1.chunk.js.map",
     "index.html": "/facebook-container-app/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/facebook-container-app/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.29832f74.chunk.js.LICENSE.txt": "/facebook-container-app/static/js/2.29832f74.chunk.js.LICENSE.txt"
+    "static/js/2.d537c3ba.chunk.js.LICENSE.txt": "/facebook-container-app/static/js/2.d537c3ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.519fe69e.js",
-    "static/js/2.29832f74.chunk.js",
+    "static/js/2.d537c3ba.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.952f85d2.chunk.js"
   ]
