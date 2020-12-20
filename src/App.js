@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <MicroFrontend
           name="CalcApp"
-          host="https://roblmartin.github.io/calc-app/"
+          host="https://roblmartin.github.io/calc-app"
         />
         <MicroFrontend
           name="StopWatchApp"
-          host="https://roblmartin.github.io/stop-watch-app/"
+          host="https://roblmartin.github.io/stop-watch-app"
         />
       </header>
     </div>
