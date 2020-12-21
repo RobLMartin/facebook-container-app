@@ -32,16 +32,16 @@
   width: auto;
   display: grid;
   grid-template-columns: 50px 50px 50px 50px;
-  grid-gap: 0.2em;
+  grid-gap: 10px;
 }
 
 .other-controls {
   display: flex;
-  gap: 0.2em;
+  gap: 10px;
 }
 
 .calc-container {
-  width: 214px;
+  width: auto;
 }
 
 .calculation {
@@ -49,7 +49,7 @@
   height: 50px;
   background: white;
   color: black;
-  margin-bottom: 0.2em;
+  margin-bottom: 10px;
   display: flex;
   align-items: center;
   justify-content: flex-end;
@@ -59,14 +59,12 @@
 .allclear {
   width: 100%;
   height: 50px;
-  margin-top: 0.2em;
   background: #d587ad;
   border: none;
 }
 .equals {
   width: 100%;
   height: 50px;
-  margin-top: 0.2em;
   background: #4fa386;
   border: none;
 }
