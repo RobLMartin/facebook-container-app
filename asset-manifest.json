@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/facebook-container-app/static/css/main.f91a16be.chunk.css",
+    "main.css": "/facebook-container-app/static/css/main.8becbf6c.chunk.css",
     "main.js": "/facebook-container-app/static/js/main.952f85d2.chunk.js",
     "main.js.map": "/facebook-container-app/static/js/main.952f85d2.chunk.js.map",
     "runtime-main.js": "/facebook-container-app/static/js/runtime-main.519fe69e.js",
@@ -10,13 +10,13 @@
     "static/js/3.a7764df1.chunk.js": "/facebook-container-app/static/js/3.a7764df1.chunk.js",
     "static/js/3.a7764df1.chunk.js.map": "/facebook-container-app/static/js/3.a7764df1.chunk.js.map",
     "index.html": "/facebook-container-app/index.html",
-    "static/css/main.f91a16be.chunk.css.map": "/facebook-container-app/static/css/main.f91a16be.chunk.css.map",
+    "static/css/main.8becbf6c.chunk.css.map": "/facebook-container-app/static/css/main.8becbf6c.chunk.css.map",
     "static/js/2.d537c3ba.chunk.js.LICENSE.txt": "/facebook-container-app/static/js/2.d537c3ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.519fe69e.js",
     "static/js/2.d537c3ba.chunk.js",
-    "static/css/main.f91a16be.chunk.css",
+    "static/css/main.8becbf6c.chunk.css",
     "static/js/main.952f85d2.chunk.js"
   ]
 }
