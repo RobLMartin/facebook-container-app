@@ -44,6 +44,43 @@
   width: 214px;
 }
 
+.calculation {
+  width: 100%;
+  height: 50px;
+  background: white;
+  color: black;
+  margin-bottom: 0.2em;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  overflow-x: hidden;
+}
+
+.allclear {
+  width: 100%;
+  height: 50px;
+  margin-top: 0.2em;
+  background: #d587ad;
+  border: none;
+}
+.equals {
+  width: 100%;
+  height: 50px;
+  margin-top: 0.2em;
+  background: #4fa386;
+  border: none;
+}
+.button {
+  border-radius: 0;
+  width: 50px;
+  height: 50px;
+  border: none;
+}
+
+.button:hover {
+  background: #4d576a;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
